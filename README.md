@@ -7,9 +7,7 @@ this is a high performance program compared to the python
 
 this program solves both the crd and rbd and draws the ANOVA table a the only ouput
 
-the table is drawn in the following way
-
-## anova table
+## anova table example
 
                                     ANOVA TABLE
     ____________________________________________________________________________________________
@@ -20,11 +18,12 @@ the table is drawn in the following way
     Error                   566.875                21                26.994
     total                   3064.875                31                98.867
 
-this table is copies from `atom hydrogen` execution of the program
 
-# get and run program
+this table is copied from `atom hydrogen` execution of the program
 
-you need to install julia v1.4 and above first from https://julialang.org I used 1.4 during development
+## get and run program
+
+you need to install julia v1.4 and above first from https://julialang.org I used v1.4 during development
 
 to run the program clone the copy and navigate to the folder of the project in `terminal` or `cmd`
 
@@ -35,4 +34,4 @@ the run
 This program allows you to change btwn solving crd and rbd by simply changing the `prob` variable in
 `main()`  function
 
-for rbb `prob = 1` and for crd `prob = 1`
+for rbd `prob = 1` and for crd `prob = 1`
