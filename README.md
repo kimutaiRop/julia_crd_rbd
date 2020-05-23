@@ -2,6 +2,7 @@
 
 this is a program made in julia which I already made in python
 to get the python copy of the program check my github for the python program
+https://github.com/kimutaiRop/CRD_RBD
 
 this is a high performance program compared to the python
 
